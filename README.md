@@ -20,6 +20,4 @@
 </br>
 and learning some more...
 
-![image height="100px"](https://github.com/jmiguelmangas/jmiguelmangas/assets/48366896/3d2769b2-22d0-45eb-857b-503b244a13c6) ![image height="100px"](https://github.com/jmiguelmangas/jmiguelmangas/assets/48366896/a8dd313e-73ed-487f-ade8-edf91f4621ff)
-
-
+![image height="100px"](https://github.com/jmiguelmangas/jmiguelmangas/assets/48366896/3d2769b2-22d0-45eb-857b-503b244a13c6) HARVARD CS50P Certified
