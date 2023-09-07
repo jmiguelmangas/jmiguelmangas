@@ -19,3 +19,6 @@
 
 </br>
 and learning some more...
+
+![image](https://github.com/jmiguelmangas/jmiguelmangas/assets/48366896/3d2769b2-22d0-45eb-857b-503b244a13c6)
+
