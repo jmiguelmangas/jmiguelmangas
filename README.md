@@ -9,7 +9,7 @@
 
 📫 How to reach me: jmmangas@gmail.com or whatsapp me at: +34 667 475 165
 
-## Tecnologías:
+## Technologies:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
