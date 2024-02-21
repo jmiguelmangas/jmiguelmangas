@@ -1,9 +1,4 @@
-# Hi there 👋
-## My name is Jose Miguel and I'm working remotely from Madrid, Spain 🇪🇸
-
-🔭 I’m currently working on my CS50P Final Project
-
-👯 I’m looking to collaborate on Python Development Projects for Beginners/Intermediate
+Python Full Stack Developer with 1 year of experience in Python Development but many years in automation development, front-end design, back-end database management. Experience working for major companies such as Telefónica, Grupo Planeta, and Apple.
 
 📫 How to reach me: jmmangas@gmail.com or whatsapp me at: +34 667 475 165
 
