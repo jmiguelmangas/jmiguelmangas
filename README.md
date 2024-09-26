@@ -1,4 +1,4 @@
-Python Full Stack Developer with 1 year of experience in Python Development but many years in automation development, front-end design, back-end database management. Experience working for major companies such as Telefónica, Grupo Planeta, and Apple.
+Python Developer with extensive experience in automation, data analysis, and backend development. Skilled in building efficient and scalable solutions using Python, with certifications in data handling from IBM and Python programming from Harvard’s CS50P. Proven track record working with leading companies such as Apple, Telefónica, and Grupo Planeta, leveraging Python to drive innovation and optimize processes.
 
 📫 How to reach me: jmmangas@gmail.com or whatsapp me at: +34 667 475 165
 
