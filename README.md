@@ -8,7 +8,17 @@ Desarrollador Python con más de 9 años de experiencia en backend, automatizaci
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 
+## Otras habilidades técnicas:
+- SQL Database Administration
+- HTML5 y CSS3
+- JavaScript ES6
+- C, C++
+- Apple Swift
+- Wordpress y PHP
+- React
+
 ## Contacto
 - LinkedIn: [Jose Mangas](https://www.linkedin.com/in/josemmangasdeveloper/)
 - GitHub: [jmiguelmangas](https://github.com/jmiguelmangas)
 - HackerRank: [Perfil HackerRank](https://www.hackerrank.com/profile/jmmangas) (Top 5% como Python Developer y en la resolución de problemas de algoritmos)
+"""
