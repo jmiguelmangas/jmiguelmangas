@@ -3,10 +3,6 @@ Desarrollador Python con más de 9 años de experiencia en backend, automatizaci
 
 ¡Explora mis proyectos y contribuciones en este repositorio!
 
-## Proyectos destacados
-- 🐶 **Beagle Dog Owners**: [Repositorio](https://github.com/jmiguelmangas/beagleDogOwners-FastApi) - Un backend con FastAPI para gestionar datos de perros y dueños con funcionalidades avanzadas de búsqueda y paginación.
-- 📸 **Reconocimiento facial con TensorFlow**: Implementación de un sistema que detecta y reconoce rostros utilizando redes neuronales.
-
 ## Certificaciones y habilidades
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
