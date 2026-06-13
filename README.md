@@ -1,24 +1,80 @@
-# ¡Hola! Soy José Miguel Mangas 👋
-Desarrollador Python con más de 9 años de experiencia en backend, automatización y análisis de datos. Me especializo en la creación de soluciones escalables y eficientes utilizando tecnologías como **Python**, **FastAPI**, **Django**, y **TensorFlow**. He trabajado con empresas como Apple, Telefónica y Grupo Planeta, siempre enfocado en optimizar procesos y aprovechar el poder de los datos.
+# Hi, I'm Jose Miguel Mangas
 
-¡Explora mis proyectos y contribuciones en este repositorio!
+I'm a product-minded Python / full-stack developer based in Madrid, working at
+the intersection of business analysis, operational tooling, automation and data
+products.
 
-## Certificaciones y habilidades
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+At BA, my work is focused on understanding business workflows, turning messy
+operational needs into usable tools, and building systems that make decisions,
+reporting and daily execution easier. Outside work, I build portfolio projects
+that combine backend engineering, data ingestion, geospatial search, analytics,
+automation and polished frontend experiences.
 
-## Otras habilidades técnicas:
-- SQL Database Administration
-- HTML5 y CSS3
-- JavaScript ES6
-- C, C++
-- Apple Swift
-- Wordpress y PHP
-- React
+## What I Build
 
-## Contacto
+- Internal tools for operations, planning, reporting and workflow automation.
+- Data products with APIs, ingestion pipelines, dashboards and quality checks.
+- Full-stack applications that connect business context with clean technical
+  execution.
+- AI-assisted and automation-first developer workflows.
+
+## Featured Projects
+
+### AutoPulse
+
+Automotive intelligence platform for EV charging infrastructure.
+
+- FastAPI backend with station search, route planning, analytics and admin data
+  quality APIs.
+- MongoDB geospatial data model with Open Charge Map ingestion.
+- React + TypeScript frontend with MapLibre, bento-style UI, station cards,
+  modeled availability and route recommendations.
+- Shared OpenAPI/TypeScript contracts, CI, metrics and structured logging.
+
+Repos:
+
+- [AutoPulse base](https://github.com/jmiguelmangas/AutoPulse)
+- [autopulse-api](https://github.com/jmiguelmangas/autopulse-api)
+- [autopulse-frontend](https://github.com/jmiguelmangas/autopulse-frontend)
+- [autopulse-worker](https://github.com/jmiguelmangas/autopulse-worker)
+- [autopulse-contracts](https://github.com/jmiguelmangas/autopulse-contracts)
+
+### Operations and Productivity Tools
+
+Personal projects around crew/operations workflows, internal productivity,
+automation, dashboards and business process support.
+
+Examples from my workspace include Crewfinder, Crewcast, BambooHR time tracking
+automation and operational pathfinder tools.
+
+## Tech I Use
+
+**Backend and data:** Python, FastAPI, Django, Pydantic, SQL, MongoDB, PyMongo,
+HTTPX, data validation, API integrations.
+
+**Frontend:** React, TypeScript, Vite, TanStack Query, MapLibre, HTML, CSS,
+design tokens and reusable component systems.
+
+**Automation and operations:** CLI tools, scheduled jobs, ingestion workers,
+business process automation, reporting workflows.
+
+**Quality and delivery:** Pytest, Ruff, Vitest, ESLint, OpenAPI, generated
+contracts, GitHub Actions, Docker, observability and structured logging.
+
+**AI workflow:** Codex, prompt-driven development, rapid prototyping and
+AI-assisted architecture exploration.
+
+## Current Focus
+
+- Building portfolio-grade products that show both engineering depth and
+  business understanding.
+- Turning operational workflows into reliable software.
+- Improving frontend/product design so tools feel clear, useful and polished.
+- Connecting APIs, geospatial data, analytics and automation into cohesive
+  applications.
+
+## Contact
+
 - LinkedIn: [Jose Mangas](https://www.linkedin.com/in/josemmangasdeveloper/)
 - GitHub: [jmiguelmangas](https://github.com/jmiguelmangas)
-- HackerRank: [Perfil HackerRank](https://www.hackerrank.com/profile/jmmangas) (Top 5% como Python Developer y en la resolución de problemas de algoritmos)
-"""
+- HackerRank: [jmmangas](https://www.hackerrank.com/profile/jmmangas)
