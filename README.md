@@ -1,5 +1,12 @@
 # Hi, I'm Jose Miguel Mangas
 
+[![AutoPulse](https://img.shields.io/badge/Featured-AutoPulse-0F766E)](https://github.com/jmiguelmangas/AutoPulse)
+![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-TypeScript-61DAFB?logo=react&logoColor=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-geospatial-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-CI%2FCD-2496ED?logo=docker&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-contracts-6BA539?logo=openapiinitiative&logoColor=white)
+
 I'm a product-minded Python / full-stack developer based in Madrid, working at
 the intersection of business analysis, operational tooling, automation and data
 products.
