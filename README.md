@@ -82,6 +82,8 @@ AI-assisted architecture exploration.
 
 ## Contact
 
+- Email: [jmmangas@gmail.com](mailto:jmmangas@gmail.com)
+- Phone: [+34 667 475 165](tel:+34667475165)
 - LinkedIn: [Jose Mangas](https://www.linkedin.com/in/josemmangasdeveloper/)
 - GitHub: [jmiguelmangas](https://github.com/jmiguelmangas)
 - HackerRank: [jmmangas](https://www.hackerrank.com/profile/jmmangas)
