@@ -1,6 +1,7 @@
 # Hi, I'm Jose Miguel Mangas
 
 [![AutoPulse](https://img.shields.io/badge/Featured-AutoPulse-0F766E)](https://github.com/jmiguelmangas/AutoPulse)
+[![AeroRoute MLX](https://img.shields.io/badge/Featured-AeroRoute%20MLX-1D4ED8)](https://github.com/jmiguelmangas/aeroroute-platform)
 ![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB?logo=react&logoColor=111111)
 ![MongoDB](https://img.shields.io/badge/MongoDB-geospatial-47A248?logo=mongodb&logoColor=white)
@@ -15,7 +16,7 @@ At BA, my work is focused on understanding business workflows, turning messy
 operational needs into usable tools, and building systems that make decisions,
 reporting and daily execution easier. Outside work, I build portfolio projects
 that combine backend engineering, data ingestion, geospatial search, analytics,
-automation and polished frontend experiences.
+automation, synthetic trajectory modeling and polished frontend experiences.
 
 ## What I Build
 
@@ -45,6 +46,31 @@ Repos:
 - [autopulse-frontend](https://github.com/jmiguelmangas/autopulse-frontend)
 - [autopulse-worker](https://github.com/jmiguelmangas/autopulse-worker)
 - [autopulse-contracts](https://github.com/jmiguelmangas/autopulse-contracts)
+
+### AeroRoute MLX
+
+Educational pre-operational flight-plan simulation platform for comparing
+synthetic trajectory efficiency.
+
+- FastAPI orchestration layer for optimization runs, persistence, weather
+  adapters, result history and navigation snapshots.
+- Deterministic Python optimizer package for synthetic trajectory scoring,
+  route physics boundaries and reproducible optimization behavior.
+- React + TypeScript frontend with MapLibre route views, generated API clients
+  and a reusable component library.
+- Platform repository for architecture, local development, integration testing,
+  observability, release manifests and sibling-service composition.
+
+Repos:
+
+- [aeroroute-platform](https://github.com/jmiguelmangas/aeroroute-platform)
+- [aeroroute-api](https://github.com/jmiguelmangas/aeroroute-api)
+- [aeroroute-web](https://github.com/jmiguelmangas/aeroroute-web)
+- [aeroroute-optimizer](https://github.com/jmiguelmangas/aeroroute-optimizer)
+- [aeroroute-data](https://github.com/jmiguelmangas/aeroroute-data)
+- [aeroroute-contracts](https://github.com/jmiguelmangas/aeroroute-contracts)
+- [aeroroute-mlx](https://github.com/jmiguelmangas/aeroroute-mlx)
+- [aeroroute-mlx-training](https://github.com/jmiguelmangas/aeroroute-mlx-training)
 
 ### Operations and Productivity Tools
 
