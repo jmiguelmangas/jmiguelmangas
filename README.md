@@ -49,17 +49,29 @@ Repos:
 
 ### AeroRoute MLX
 
-Educational pre-operational flight-plan simulation platform for comparing
-synthetic trajectory efficiency.
+Educational flight-trajectory efficiency simulator: a deterministic 4D route
+optimizer, a PostGIS-backed FastAPI service, a React/MapLibre frontend, and a
+locally-run Apple Silicon LLM (MLX, Gemma 3) that explains — but is
+contractually forbidden from computing — the result.
 
-- FastAPI orchestration layer for optimization runs, persistence, weather
-  adapters, result history and navigation snapshots.
-- Deterministic Python optimizer package for synthetic trajectory scoring,
-  route physics boundaries and reproducible optimization behavior.
-- React + TypeScript frontend with MapLibre route views, generated API clients
-  and a reusable component library.
-- Platform repository for architecture, local development, integration testing,
-  observability, release manifests and sibling-service composition.
+![AeroRoute MLX: route comparison, deterministic AI explanation and operational-safety gates](https://raw.githubusercontent.com/jmiguelmangas/aeroroute-platform/main/assets/screenshots/results-comparison.png)
+
+- **Deterministic core, probabilistic explanation, strictly separated.** A
+  custom layered label-setting solver computes routes, fuel and scoring; the
+  local LLM only narrates an already-computed result, with output validators
+  (not just prompting) that reject any invented or mismatched number.
+- **A measured model bake-off, not a preference call.** Chose the base model
+  by running a 24-case evaluation corpus against 3 candidates and recording
+  pass rate, latency and memory — including a case where a challenger failed
+  most cases, and documenting why rather than discarding the result.
+- **Fail-closed safety, visible at runtime.** Filing/dispatch/operator-
+  approval gates are real API fields with automated regression tests that
+  fail if a future endpoint quietly weakens the non-operational boundary.
+- **Eight independently versioned repositories** (web, API, optimizer,
+  native MLX service, offline training, data curation, cross-language
+  contracts, platform) with a pinned release manifest and a guardrail that
+  fails the build if a component's pinned version drifts from what's
+  actually checked out.
 
 Repos:
 
