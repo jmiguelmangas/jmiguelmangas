@@ -12,7 +12,7 @@ I'm a product-minded Python / full-stack developer based in Madrid, working at
 the intersection of business analysis, operational tooling, automation and data
 products.
 
-At BA, my work is focused on understanding business workflows, turning messy
+At my work is focused on understanding business workflows, turning messy
 operational needs into usable tools, and building systems that make decisions,
 reporting and daily execution easier. Outside work, I build portfolio projects
 that combine backend engineering, data ingestion, geospatial search, analytics,
